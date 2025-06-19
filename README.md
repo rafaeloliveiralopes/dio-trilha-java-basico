@@ -74,7 +74,7 @@ Projeto simples, mas fundamental para fixação de conceitos básicos de Java, l
 
 ## Contato
 
-🔹 **Autor:** Rafael Oliveira Lopes  
-🔹 **Email:** rafaellopes.dev@email.com  
-🔹 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/rafael-lopes-desenvolvedor-fullstack/)  
-🔹 **Site:** [rafaellopes.dev](https://rafaellopes.dev)
+**Autor:** Rafael Oliveira Lopes  
+**Email:** rafaellopes.dev@email.com  
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/rafael-lopes-desenvolvedor-fullstack/)  
+**Site:** [rafaellopes.dev](https://rafaellopes.dev)
