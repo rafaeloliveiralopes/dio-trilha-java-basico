@@ -48,8 +48,8 @@ git clone https://github.com/seu-usuario/dio-trilha-java-basico.git
 
 2. Abra o projeto no IntelliJ IDEA.
 
-3. No IntelliJ:  
-   👉 Marque a pasta `/src` como **Sources Root**.
+3. No IntelliJ:
+-  Marque a pasta `/src` como **Sources Root**.
 
 4. Compile e execute a classe `ContaTerminal`.
 
