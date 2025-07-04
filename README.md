@@ -43,7 +43,7 @@ Este projeto apresenta uma aplicação Java de terminal que realiza:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/dio-trilha-java-basico.git
+git clone https://github.com/rafaeloliveiralopes/dio-trilha-java-basico
 ```
 
 2. Abra o projeto no IntelliJ IDEA.
