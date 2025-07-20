@@ -12,7 +12,7 @@ Este repositório apresenta a resolução do desafio de Programação Orientada 
 * [Autores](#autores)
 * [Contextualização do Desafio](#contextualização-do-desafio)
 * [Diagrama UML](#diagrama-uml)
-* [Resultado do Diagrama UML](#resultado-do-diagrama-uml)
+* [Modelagem do Diagrama UML](#modelagem-do-diagrama-uml)
 * [Aprendizados](#aprendizados)
 * [Próximo Passo](#próximo-passo)
 * [Referências](#referências)
@@ -48,9 +48,39 @@ Com base no vídeo oficial de lançamento do iPhone em 2007, foi proposto modela
 
 ---
 
-## Diagrama UML
+### Objetivo
+1. Criar um diagrama UML que represente as funcionalidades descritas acima.
+2. Implementar as classes e interfaces correspondentes em Java (Opcional).
 
-A modelagem pode ser representada pelo seguinte diagrama UML utilizando a sintaxe [Mermaid](https://mermaid.js.org/):
+### Exemplo de Diagrama UML (Mermaid)
+```mermaid
+classDiagram
+    class ReprodutorMusical {
+        +exemploMetodo1()
+        +exemploMetodo2(String exemplo)
+    }
+
+    class AparelhoTelefonico {
+        +exemploMetodo1()
+        +exemploMetodo2(String exemplo)
+    }
+
+    class NavegadorInternet {
+        +exemploMetodo1()
+        +exemploMetodo2(String exemplo)
+    }
+
+    class iPhone {
+    }
+
+    iPhone --> ReprodutorMusical
+    iPhone --> AparelhoTelefonico
+    iPhone --> NavegadorInternet
+```
+
+## Modelagem do Diagrama UML
+
+A modelagem foi realizada conforme o diagrama UML abaixo, conforme o enunciado, utilizando a sintaxe [Mermaid](https://mermaid.js.org/):
 
 ```mermaid
 classDiagram
@@ -81,9 +111,6 @@ classDiagram
 ```
 
 ---
-
-## Resultado do Diagrama UML
-
 
 ## Aprendizados
 
