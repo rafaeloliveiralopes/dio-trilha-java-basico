@@ -22,10 +22,7 @@ Este repositório apresenta a resolução do desafio de Programação Orientada 
 
 ## Visão Geral do Projeto
 
-O projeto visa exercitar os conceitos fundamentais da Programação Orientada a Objetos por meio da modelagem UML de um componente iPhone. Os principais objetivos são:
-
-* Elaborar um diagrama UML representando interfaces e classes essenciais.
-* Promover abstrações alinhadas às boas práticas acadêmicas e documentação oficial.
+O projeto visa exercitar os conceitos fundamentais da Programação Orientada a Objetos por meio da modelagem UML de um componente iPhone.
 
 ---
 
@@ -80,7 +77,7 @@ classDiagram
 
 ## Modelagem do Diagrama UML
 
-A modelagem foi realizada conforme o diagrama UML abaixo, conforme o enunciado, utilizando a sintaxe [Mermaid](https://mermaid.js.org/):
+A modelagem foi realizada em diagrama UML abaixo, conforme o enunciado, utilizando a sintaxe [Mermaid](https://mermaid.js.org/):
 
 ```mermaid
 classDiagram
